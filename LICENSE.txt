@@ -1,7 +1,6 @@
 The MIT License (MIT)
 
-Copyright (c) 2023 Anis J (https://codepen.io/anisj/pen/ExpJRaN)
-Fork of an original work Mario (https://codepen.io/anisj/pen/ExpJRaN)
+Copyright (c) 2023 jake (https://codepen.io/jakealbaugh/pen/LpLwoR)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
